@@ -14,7 +14,7 @@ role: Assistant Professor of Oceanography
 # Organizations/Affiliations
 organizations:
 - name: Old Dominion University
-  url: ""
+  url: "https://www.odu.edu/oeas"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an oceanographer whose research is aimed at unravelling interactions between physical ocean dynamics and biogeochemical processes.
