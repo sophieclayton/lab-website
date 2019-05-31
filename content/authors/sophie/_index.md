@@ -1,5 +1,6 @@
 ---
-# Display name: Sophie Clayton
+# Display name: 
+Sophie Clayton
 
 # Username (this should match the folder name)
 authors:
