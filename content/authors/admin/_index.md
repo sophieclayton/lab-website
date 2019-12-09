@@ -12,14 +12,11 @@ superuser: true
 role: ""
 
 # Organizations/Affiliations
-organizations: [ { name = "Old Dominion University", url = "http://www.odu.edu/oeas" } ]
+organizations =  [ { name = "Old Dominion University", url = "http://www.odu.edu/oeas" } ]
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio = ""
+bio =  ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
