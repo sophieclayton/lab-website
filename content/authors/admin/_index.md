@@ -3,8 +3,7 @@
 name: Clayton Lab
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors:["admin"]
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,7 +56,7 @@ user_groups = [""]
 
 
 +++
-Our lab focuses on undertanding how the physcial circulation of the ocean modulates biogeochemical cycles and plankton ecology. We use a range of approaches in our research: making observations in the field, using numerical models to simulate oceanographic and ecological processes, and large scale analysis of openly available ocean data. Our research is undertaken in a range of locations from the Elizabeth River just a few miles from the lab, to the Kuroshio Extension and the Califoria Current in the Pacific Ocean.
+Our lab focuses on undertanding how the physcial circulation of the ocean modulates biogeochemical cycles and plankton ecology. We use a range of approaches in our research: making observations in the field, using numerical models to simulate oceanographic and ecological processes, and large scale analysis of openly available ocean data. Our research is undertaken in a range of locations from the Elizabeth River just a few miles from the lab, to the Bay of Bengal and the Kuroshio Extension.
 
 We aim to make research done in this lab openly available and reproducible, and work to share these approaches with other researchers.
 
