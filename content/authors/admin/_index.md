@@ -46,9 +46,9 @@ user_groups = [""]
   link = "https://github.com/sophieclayton"
   
 [[social]]
-  icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:sclayton@odu.edu".
+  icon =  "envelope"
+  icon_pack =  "fas"
+  link = "#contact"  # For a direct email link, use "mailto:sclayton@odu.edu".
 
 
 
