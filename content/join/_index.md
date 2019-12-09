@@ -16,7 +16,7 @@ caption = ""
 
 ## Undergraduate students
 
-I will host students through organized programs at ODU, such as the [LEAP Program](https://www.odu.edu/tuition-aid/financial-aid/undergraduate/work-study) Work-Study Program. 
+I will host students through organized programs at ODU, such as the [LEAP Work-Study Program](https://www.odu.edu/tuition-aid/financial-aid/undergraduate/work-study). 
 
 ## Graduate students
 
