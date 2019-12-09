@@ -35,13 +35,11 @@ height = "300px"
 
 [[item]]
   title = "Modeling"
-  content = "model_temp_traj.png"
+  content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "model_sst.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "model_temp_traj.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 +++
