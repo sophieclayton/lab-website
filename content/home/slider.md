@@ -35,7 +35,7 @@ height = "300px"
 
 [[item]]
   title = "Modeling"
-  content = ""
+  content = "model_temp_traj.png"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
