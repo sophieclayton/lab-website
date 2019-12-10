@@ -21,10 +21,11 @@ organizations:
 bio: I am an oceanographer whose research is aimed at unravelling interactions between physical ocean dynamics and biogeochemical processes.
 
 interests:
-- Phytoplankton ecology
+- Phytoplankton Ecology
+- Physical-Biological Interactions
 - (Sub)mesoscale dynamics
-- Physical-biological interactions
-- Big data in oceanography
+- Boundary Currents
+- Big data in Oceanography
 
 education:
   courses:
