@@ -30,7 +30,7 @@ height = "300px"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "plankton_banner.001.jpg"
+  overlay_img = "phyto_banner.001.jpg"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
