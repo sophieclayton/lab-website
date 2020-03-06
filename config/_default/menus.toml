@@ -20,7 +20,8 @@
 
 [[main]]
   name = "Publications"
-  url = "#pubs"
+  url = "https://scholar.google.com/citations?user=cNTCM2EAAAAJ&hl=en"
+  #url = "#pubs"
   weight = 5
   
 [[main]]
