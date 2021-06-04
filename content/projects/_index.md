@@ -1,17 +1,14 @@
-+++
-title = "Projects"
+---
+title: Projects
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 1
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
-
-## 
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
