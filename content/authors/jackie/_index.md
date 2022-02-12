@@ -14,7 +14,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Old Dominion University
-  url: "https://www.odu.edu/oeas"
+  url: "https://www.odu.edu/oes"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-#  - course: BSc(Hons) in Ocean Sciences
-#    institution: Bangor University, UK
-#    year: 2007
+- course: BS Biology
+  institution: Old Dominion University
+  year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
