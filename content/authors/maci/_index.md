@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-- course: BSc in Marine Biology
+- course: BS Marine Biology
   institution: Old Dominion Unuversity, Norfolk, VA, USA
   year: 2021
 
