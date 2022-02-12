@@ -30,12 +30,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Physical Oceanography
+  - course: PhD Physical Oceanography
     institution: MIT/WHOI Joint Program
     year: 2013
-  - course: BSc(Hons) in Ocean Sciences
+  - course: BSc(Hons) Ocean Sciences
     institution: Bangor University, UK
     year: 2007
+  - course: BA(Hons) Fine Art
+    institution: Middlesex University, UK
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
