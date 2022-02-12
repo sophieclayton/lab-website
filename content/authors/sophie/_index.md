@@ -22,11 +22,9 @@ bio: I am an oceanographer whose research is aimed at unravelling interactions b
 
 interests:
 - Physical-Biological Interactions
-- (Sub)mesoscale dynamics
 - Boundary Current and Frontal Dynamics
 - Phytoplankton Ecology
-- Data Science
-- ML/AI applications in Oceanography
+- Data Science and ML/AI in Oceanography
 
 education:
   courses:
