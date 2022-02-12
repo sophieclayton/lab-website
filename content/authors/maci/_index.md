@@ -20,7 +20,7 @@ organizations:
 bio: ""
 
 interests:
-- Particle Imaging Technology
+- Particle Imaging
 - Harmful Algal Blooms
 - Phytoplankton Ecology
 
