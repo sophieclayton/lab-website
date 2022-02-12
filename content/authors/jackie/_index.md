@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-- course: BS Biology
-  institution: Old Dominion University
-  year: 2020
+  - course: BS Biology
+    institution: Old Dominion University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
