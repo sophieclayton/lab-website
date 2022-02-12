@@ -14,8 +14,5 @@ user_groups = ["Principal Investigator",
                "Graduate Students",
                "Research Staff",
                "Past Lab Members"]
-               
-               # 
-               #"Undergraduate Researchers"]
 
 +++
