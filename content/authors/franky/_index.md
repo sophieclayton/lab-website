@@ -23,7 +23,7 @@ interests:
 - Shelf-break front dynamics
 - Physical-biological interactions
 - Ocean gliders
-- Data Science in oceanography
+- Data Science in Oceanography
 
 education:
   courses:
