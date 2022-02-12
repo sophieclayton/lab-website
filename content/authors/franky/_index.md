@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-#  - course: BSc(Hons) in Ocean Sciences
-#    institution: Bangor University, UK
-#    year: 2007
+- course: BS Chemistry
+  institution: University of Florida, Innovation Academy
+  year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
