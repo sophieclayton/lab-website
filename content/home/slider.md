@@ -15,7 +15,7 @@ interval = 5000
 height = "300px"
 
 [[item]]
-  title = "Oceanography"
+  title = "Observational Oceanography"
   content = ""
   align = "left"
 
@@ -25,7 +25,7 @@ height = "300px"
 
 
 [[item]]
-  title = "Phytoplankton"
+  title = "Plankton Imaging"
   content = ""
   align = "left"
 
@@ -34,7 +34,7 @@ height = "300px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Modeling"
+  title = "Modeling and Data Science"
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
   
