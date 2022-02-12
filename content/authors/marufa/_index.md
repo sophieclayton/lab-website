@@ -21,8 +21,8 @@ bio: ""
 
 interests:
 - Physical Oceanography
-- Bay of Bengal
-- Barrier Layer Dynamics
+- Indian Ocean
+- Upper Ocean Dynamics
 - Big data in oceanography
 
 education:
