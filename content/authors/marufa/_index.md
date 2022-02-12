@@ -23,7 +23,8 @@ interests:
 - Physical Oceanography
 - Indian Ocean
 - Upper Ocean Dynamics
-- Big data in oceanography
+- Argo floats
+- Data Science in Oceanography
 
 education:
   courses:
