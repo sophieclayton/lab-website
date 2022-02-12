@@ -15,17 +15,18 @@ role: Assistant Professor of Oceanography
 # Organizations/Affiliations
 organizations:
 - name: Old Dominion University
-  url: "https://www.odu.edu/oeas"
+  url: "https://www.odu.edu/oes"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an oceanographer whose research is aimed at unravelling interactions between physical ocean dynamics and biogeochemical processes.
 
 interests:
-- Phytoplankton Ecology
 - Physical-Biological Interactions
 - (Sub)mesoscale dynamics
-- Boundary Currents
-- Big data in Oceanography
+- Boundary Current and Frontal Dynamics
+- Phytoplankton Ecology
+- Data Science
+- ML/AI applications in Oceanography
 
 education:
   courses:
