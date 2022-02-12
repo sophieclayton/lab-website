@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-- course: BS Marine Biology
-  institution: Old Dominion Unuversity, Norfolk, VA, USA
-  year: 2021
+  - course: BS Marine Biology
+    institution: Old Dominion Unuversity, Norfolk, VA, USA
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
