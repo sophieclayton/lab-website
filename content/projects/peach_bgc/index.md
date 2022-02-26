@@ -6,6 +6,7 @@ tags:
   - physical oceanography
   - gliders
   - satellite chlorophyll
+  - fronts
 date: "2022-02-26"
 
 ---
@@ -17,7 +18,7 @@ Here we show a match-up between surface Chlorohyll estimates from VIIRS, and dep
 
 Currently focused on the shelf-open ocean exchange hotspot off Cape Hatteras, NC, USA, this area is of particular interest because the Mid-Atlantic Bight (MAB), South Atlantic Bight (SAB), and Gulf Stream (GS) waters with very different biogeochemical properties converge and drive cross-shelf export on short time and. space scales. Our goals are to associate chlorophyll distributions with specific hydrographic structures and generate longer timeseries of vertically resolved chlorophyll products by pairing glider data with machine learning and satellite products.
 
-Franky Lane will be presenting his recent work on this project at the 2022 Ocean Sciences Conference. This project is funded by a Virginia Space Grant Consortium [New Investigator Program](https://vsgc.odu.edu/newinvestigatorprogram/) award to S. Clayton.
+*This project is funded by a Virginia Space Grant Consortium [New Investigator Program](https://vsgc.odu.edu/newinvestigatorprogram/).*
 
 <!--![](viirs_peach_map_jan2018.png)-->
 
