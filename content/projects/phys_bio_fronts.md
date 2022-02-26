@@ -1,5 +1,0 @@
-% projects looking at physical-biological coupling at fronts
-
-# Productivity and Carbon exchange at the Hatteras Front
-Shelfbreak carbon exchange is important for the budget of biogeochemical process and the global climate. Understanding how water mass convergence and exchange affects the vertical distribution of carbon on short spatial and temporal scales at the shelfbreak. We study these processes through a combination of in-situ measurements, ocean autonomous gliders, and high-resolution satellite ocean color products. Currently focused on the shelf-open ocean exchange hotspot off Cape Hatteras, NC, USA, this area is of particular interest because the Mid-Atlantic Bight (MAB), South Atlantic Bight (SAB), and Gulf Stream (GS) waters with very different biogeochemical properties converge and export on short timescales with sub-mesoscale dynamics. Our goals are to associate chlorophyll distributions with specific hydrographic structures and generate longer timeseries of vertically resolved chlorophyll products by pairing glider data with machine learning and satellite products.
-
