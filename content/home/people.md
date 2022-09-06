@@ -9,10 +9,9 @@ title = "People"
 subtitle = ""
 
 # List user groups to display.
-#   Edit each user's `user_groups` to add them to one or more of these groups.
+#   Edit each user's `user_groups` to add them to one or more of these groups. # "Research Staff" removed for now.
 user_groups = ["Principal Investigator",
                "Graduate Students",
-               "Research Staff",
                "Past Lab Members"]
 
 +++
