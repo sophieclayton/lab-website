@@ -9,7 +9,7 @@ authors: franky
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: MS Candidate
 
 # Organizations/Affiliations
 organizations:
